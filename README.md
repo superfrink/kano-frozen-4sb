@@ -4,7 +4,7 @@ Kano Frozen 2 Coding Kit documentation
 
 ## Summary
 
-A flat hexagon around 10 cm across.  There are four proximity sensors placed equidistant around the outside.  There are eight LEDs around the outside and one in the center that light with varying brightness depending on the proximity detected by the nearest sensor.  The device connects via BlueTooth.  There are some software applications that use the device for interacting with the software.  There is one button that when held for three seconds puts the device to sleep.  Pressing the button once wakes the device.  The device is powered by two AA batteries.
+A flat octagon around 10 cm across.  There are four proximity sensors placed equidistant around the outside.  There are eight LEDs around the outside and one in the center that light with varying brightness depending on the proximity detected by the nearest sensor.  The device connects via BlueTooth.  There are some software applications that use the device for interacting with the software.  There is one button that when held for three seconds puts the device to sleep.  Pressing the button once wakes the device.  The device is powered by two AA batteries.
 
 ## Identification Information
 
